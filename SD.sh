@@ -26,7 +26,9 @@ CHECKPOINT_MODELS=(
 )
 
 LORA_MODELS=(
-    #"https://civitai.com/api/download/models/16576"
+    "https://civitai.com/api/download/models/11897?type=Model&format=SafeTensor&size=full&fp=fp16"
+    "https://civitai.com/api/download/models/11896?type=Model&format=SafeTensor&size=full&fp=fp16"
+
 )
 
 VAE_MODELS=(
