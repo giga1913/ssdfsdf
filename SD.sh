@@ -23,6 +23,10 @@ EXTENSIONS=(
 
 CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/115086"
+    "https://civitai.com/api/download/models/158849"
+    "https://civitai.com/api/download/models/170793?type=Model&format=SafeTensor&size=pruned&fp=fp32"
+    
+    
 )
 
 LORA_MODELS=(
@@ -31,6 +35,8 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/23247"
     "https://civitai.com/api/download/models/109412"
     "https://civitai.com/api/download/models/39457"
+    "https://civitai.com/models/158608/yuan"
+    
     
     
 
