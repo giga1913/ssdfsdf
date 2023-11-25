@@ -30,11 +30,22 @@ CHECKPOINT_MODELS=(
 LORA_MODELS=(
    "https://civitai.com/api/download/models/109412"
    "https://civitai.com/api/download/models/39457"
-   "https://civitai.com/api/download/models/11897?type=Model&format=SafeTensor&size=full&fp=fp16"
-   "https://civitai.com/api/download/models/11896?type=Model&format=SafeTensor&size=full&fp=fp16"
    "https://civitai.com/api/download/models/150507"
    "https://civitai.com/api/download/models/167368"
-   "https://civitai.com/api/download/models/161123?type=Model&format=SafeTensor"
+   "https://civitai.com/api/download/models/117151?type=Model&format=SafeTensor"
+   "https://civitai.com/api/download/models/117664"
+   "https://civitai.com/api/download/models/143995"
+   "https://civitai.com/api/download/models/141940"
+   "https://civitai.com/api/download/models/157067"
+   "https://civitai.com/api/download/models/167469"
+   "https://civitai.com/api/download/models/141123"
+   "https://civitai.com/api/download/models/133027"
+   "https://civitai.com/api/download/models/62173"
+   "https://civitai.com/api/download/models/87577"
+   "https://civitai.com/api/download/models/171133"
+   "https://civitai.com/api/download/models/222235"
+
+
 
 )
 
