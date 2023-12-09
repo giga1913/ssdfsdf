@@ -25,7 +25,7 @@ CHECKPOINT_MODELS=(
    "https://civitai.com/api/download/models/115086"
    "https://civitai.com/api/download/models/168741"
    "https://civitai.com/api/download/models/178389"
-   "https://civitai.com/api/download/models/142125"
+   "https://civitai.com/api/download/models/238266"
 
 )
 
