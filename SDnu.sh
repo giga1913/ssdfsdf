@@ -25,8 +25,7 @@ CHECKPOINT_MODELS=(
    "https://civitai.com/api/download/models/115086"
    "https://civitai.com/api/download/models/168741"
    "https://civitai.com/api/download/models/249804?type=Model&format=SafeTensor&size=full&fp=fp16"
-   "https://civitai.com/api/download/models/260717"
-
+   "https://huggingface.co/nguyenrt/sat/resolve/main/SatV1.safetensors?download=true"
 
 )
 
